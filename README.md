@@ -1,4 +1,4 @@
-![ZeDMD_logo](docs/images/ZeDMD_logo_pixelated.png)
+Attention: This is only an experimental working copy. Please visit the original project: https://github.com/PPUC/ZeDMD On this place there is no support avaliable and all changes have a high risk to destroy the functionality :)
 ## About
 
 ZeDMD is a "real" DMD designed for pinball emulations and other use cases. Originally developed by David "Zedrummer" Lafarge, the concept laid the foundation for what ZeDMD has become today. Markus Kalkbrenner, the current maintainer of ZeDMD, was inspired by the original idea and took the initiative to further develop and enhance it into the robust and versatile solution it is now.
